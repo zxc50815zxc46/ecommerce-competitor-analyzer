@@ -13,6 +13,9 @@ service-account-key.json
 output/*.json
 reports/*.md
 
+# Claude Code internal files
+.claude/
+
 # System files
 .DS_Store
 .DS_Store?
